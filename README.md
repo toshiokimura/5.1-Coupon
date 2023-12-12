@@ -7,42 +7,32 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 
 
-## Acceptance ratio highlights 
+## Acceptance Ratio Highlights 
 (): Acceptance ratio
 
 ### Coffee House coupon ###
 ** Circumstances (Destination, Passenger, Time, Expiration) ** 
-
 There are certain differences in the acceptance ratio by all these factors
-
 - Destination: No Urgent Place (58%) vs. Home (36%)
 - Passenger: Friends(s) (60%) vs. Alone (44%)
 - Time: 10 AM (64%) and 2 PM (55%) vs. 7 AM (45%), 6 PM (41%), and 10 PM (42%)
 - Expiration: 1 day (58%) vs. 2 hours (43%)
 
-Environments (Whether, Temperature) 
-
+** Environments (Whether, Temperature) **
 There is no significant difference in acceptance ratio by these factors
-
 - Temperature: 80F (53%) vs. 30F (44%) 
 
-Demographics (Gender, Marital Status, Has children, Education, Occupation, Income)
-
+** Demographics (Gender, Marital Status, Has children, Education, Occupation, Income) **
 There is no significant difference in acceptance ratio by these factors in general except for Occupation and Income.
-
 - Occupation: Students (63%), Unemployed (54%) vs. Sales & Related (39%)
 - Income: $12.5K- (55%) vs. 75K- (30%)
 
-Frequency (Bar, Coffee House, Carry Away, Restaurant Less Than $20, Restaurant $20 to $50 )
+** Frequency (Bar, Coffee House, Carry Away, Restaurant Less Than $20, Restaurant $20 to $50) **
 There is no significant difference by these factors except for Coffee House
 - Coffee House => 1-3 (65%), 4-8 (69%) 
 
-Location (toCoupon_GEQ5min, toCoupon_GEQ15min, toCoupon_GEQ25min, Direction_same, Directioin_opp)
-
-There does not seem to be a significant difference by these factors
-
-Interesting to see more about the correlation in these regards.
-
+** Location (toCoupon_GEQ5min, toCoupon_GEQ15min, toCoupon_GEQ25min, Direction_same, Directioin_opp) **
+There does not seem to be a significant difference by these factors. Interesting to see more about the correlation in these regards.
 
 
 ### Coffee House coupon vs. Restaurant $20 to $50 ###
