@@ -1,5 +1,5 @@
 # Analysis Report on the Coupon Acceptance Ratio 
-## Summary of Findings (Bar Coupon)
+## Summary of Findings (Investigating the Bar Coupons)
 
 Car is problematic due to just 108 data only. Frequnecy to the shop is missing in small number of dataset but it would be OK. Filled with 
 
