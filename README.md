@@ -1,15 +1,28 @@
-Will a Customer Accept the Coupon?
-Context
+•	Here is the acceptance ratio overview 
+The overall acceptance ratio is 50%
+Circumstance conditions (Destination, Passenger, Time, Expiration)
+o	There is a certain correlation to Destination, Time, Passenger, and Expiration
+	Destination: No Urgent Place (58%), Home (36%)
+	Passenger: Frends(s)
+	Time: 10 AM and 2 PM are two time zones with the most significant acceptance ratio vs. 7 AM, 6 PM and 10 PM
+	Expiration: 1Day is more higher acceptance ratio (58%) vs 2 hour (43%)
+•	This is reasonable considering coffee shop is somewhat related to leisure activity. We need to understand a little bit more about why expiration matters. 
 
-Imagine driving through town and a coupon is delivered to your cell phone for a restaraunt near where you are driving. Would you accept that coupon and take a short detour to the restaraunt? Would you accept the coupon but use it on a sunbsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaraunt? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about if it was just you and your partner in the car? Would weather impact the rate of acceptance? What about the time of day?
+Environmental conditions (Whether, Temperature) 
+•	There is no significant difference in acceptance ratio by these factors.
+	Temperature: it looks high when higher temperature case slightly acceptance raito gets higher (53%)
 
-Obviously, proximity to the business is a factor on whether the coupon is delivered to the driver or not, but what are the factors that determine whether a driver accepts the coupon once it is delivered to them? How would you determine whether a driver is likely to accept a coupon?
+Demographics (Gender, Marital Status, Has children, Education, Occupation, Income)
+o	There is no significant difference in acceptance ratio by these factors in general except for Occupation and Income.
+	Occupation: Among major occupations, Students had the highest acceptance ratio (63%) followed by Unemployed (54%).
+	Income: The lower income side has a slight tendency to accept the coupon. less than $12.5K has (55%)
+•	These two indicate that lower-income people would be affected by the coupon incentive more.
 
-Overview
+User attributes (Number of times that he/she goes to a Bar, Coffee House, Carry Away, Restaurant Less Than $20, Restaurant $20 to $50 )
+o	There is no significant difference by the below factors except Coffee House
+	Coffee House => 1-3 (65%), 4-8 (69%) 
 
-The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
+Location (toCoupon_GEQ5min, toCoupon_GEQ15min, toCoupon_GEQ25min, Direction_same, Directioin_opp)
+o	It does not seem to be a significant difference by this factor
 
-Data
-
-This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50).
 
