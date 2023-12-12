@@ -1,4 +1,6 @@
-Summary: Analysis report with regards to the Coupon acceptance ratio based on the UCI Machine Learning repository
+Analysis report with regards to the Coupon acceptance ratio based on the UCI Machine Learning repository
+
+Summary:
 
 Here is the acceptance ratio overview 
 The overall acceptance ratio is 50%
