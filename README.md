@@ -1,34 +1,9 @@
-Analysis report with regards to the Coupon acceptance ratio based on the UCI Machine Learning repository
+### Analysis report on the Coupon acceptance ratio
 
-Summary:
-Coffee Shop Coupon acceptance ratio
+The overall acceptance ratio was 50% and looking at each acceptance ratio by attribute, around 60%+ is relatively a high acceptance ratio, and around 40%- is relatively a low acceptance ratio. Please refer to the bar graphs with acceptance ratios in the project file for each attribute provided by the dataset. As for Circumstance, all conditions with high acceptance ratios are associated with leisure or having a small free time, which makes sense considering a coffee shop utilization situation. Environments are not that important factor in general and the only tendency I observed is a slightly high acceptance ratio in a high-temperature case. Demographics again are not tightly related to the acceptance ratio in general except for occupation and income. These two factors indicate that lower-income people would be incentivized by coupons more. The number of times to Coffee House is highly correlated, which is quite natural. Location does not seem to have a significant influence, but it is interesting to see more about the correlation in these regards. So, I did another analysis by splitting the dataset into pure three distances and two directions and calculated the acceptance ratios. It turned out that in the same direction, 5 min and 15 min distances did not affect the acceptance ratio a lot, but in the opposite direction, it influenced a lot, which makes sense since users do not want to change their direction just for the coffee house as the distance gets longer. In conclusion, if we want to distribute a coffee house coupon with a high acceptance ratio, it should be done in the late morning with 1-day expiration to the cars in the same direction to the coffee house. If we know personal attributes, we can also target those who are on the lower income side or who visit a coffee house more frequently.
 
-The overall coupon acceptance ratio is 50%. 
-*Circumstance conditions (Destination, Passenger, Time, Expiration)
-There is a certain correlation to Destination, Time, Passenger, and Expiration
-Destination: No Urgent Place (58%), Home (36%)
-Passenger: Frends(s)
-Time: 10 AM and 2 PM are two time zones with the most significant acceptance ratio vs. 7 AM, 6 PM and 10 PM
-Expiration: 1Day is more higher acceptance ratio (58%) vs 2 hour (43%)
+In contrast to “Coffee House”, I also checked the situation for “Restaurant $20 to $50”. Briefly saying, we need to offer the Restaurant $20 to $50 coupons in a stable manner or targets in general.
 
-This is reasonable considering coffee shop is somewhat related to leisure activity. We need to understand a little bit more about why expiration matters. 
-
-Environmental conditions (Whether, Temperature) 
-•	There is no significant difference in acceptance ratio by these factors.
-	Temperature: it looks high when higher temperature case slightly acceptance raito gets higher (53%)
-
-Demographics (Gender, Marital Status, Has children, Education, Occupation, Income)
-o	There is no significant difference in acceptance ratio by these factors in general except for Occupation and Income.
-	Occupation: Among major occupations, Students had the highest acceptance ratio (63%) followed by Unemployed (54%).
-	Income: The lower income side has a slight tendency to accept the coupon. less than $12.5K has (55%)
-•	These two indicate that lower-income people would be affected by the coupon incentive more.
-
-User attributes (Number of times that he/she goes to a Bar, Coffee House, Carry Away, Restaurant Less Than $20, Restaurant $20 to $50 )
-o	There is no significant difference by the below factors except Coffee House
-	Coffee House => 1-3 (65%), 4-8 (69%) 
-
-Location (toCoupon_GEQ5min, toCoupon_GEQ15min, toCoupon_GEQ25min, Direction_same, Directioin_opp)
-o	It does not seem to be a significant difference by this factor
 
 ![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/c8005f83-1104-4d21-814f-fc52ee9fd57b)
 ![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/36b11b2d-88d2-48ff-99f4-e0a093937a26)
