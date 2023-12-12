@@ -7,11 +7,11 @@
 
 #### Coffee House coupon: High Ratio vs. Low Ratio ###
 **Circumstances (Destination, Passenger, Time, Expiration)** <br>
-2. Proportion of bar coupons were accepted: 41%
-3. Bar 3 or fewer times a month (37%) vs. Those who went more (77%)
-4. Go to a bar more than once a month and are over the age of 25+ (70%) vs. All others (34%)
-5. Bar 1+ a month & no kid passenger & do not work in farming, fishing, or forestry (71%)
-6. Comparison of the acceptance rates between those drivers who:
+2. Proportion of bar coupons were accepted: 41% <br>
+3. Bar 3 or fewer times a month (37%) vs. Those who went more (77%) <br>
+4. Go to a bar more than once a month and are over the age of 25+ (70%) vs. All others (34%) <br>
+5. Bar 1+ a month & no kid passenger & do not work in farming, fishing, or forestry (71%) <br>
+6. Comparison of the acceptance rates between those drivers who: <br>
 - go to bars more than once a month, had passengers that were not a kid, and were not widowed: (71%)
 - go to bars more than once a month and are under the age of 30: (72%)
 - go to cheap restaurants more than 4 times a month and income is less than 50K: (45%)
