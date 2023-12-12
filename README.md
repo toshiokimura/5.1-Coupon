@@ -54,6 +54,6 @@ Interesting to see more about the correlation in these regards.
 - Frequency to restaurant - highest: Coffee House 4-8 (69%) vs. Restaurant $20 to $50 gt8 (69%)
 - Location: dependent vs. less dependent (See below graphs)
 <br>
-<br>
+
 ![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/db349a6c-6083-4722-bb93-c63ba4c95fbc)
 
