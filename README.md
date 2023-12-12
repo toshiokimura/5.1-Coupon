@@ -1,11 +1,10 @@
 Analysis report with regards to the Coupon acceptance ratio based on the UCI Machine Learning repository
 
 Summary:
+Coffee Shop Coupon acceptance ratio
 
-Coffee Shop Coupon acceptance ratio:
-
-Here is the acceptance ratio overview. The overall acceptance ratio is 50%. 
-Circumstance conditions (Destination, Passenger, Time, Expiration)
+The overall coupon acceptance ratio is 50%. 
+*Circumstance conditions (Destination, Passenger, Time, Expiration)
 There is a certain correlation to Destination, Time, Passenger, and Expiration
 Destination: No Urgent Place (58%), Home (36%)
 Passenger: Frends(s)
