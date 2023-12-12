@@ -1,12 +1,5 @@
-# Analysis Report on the Coupon Acceptance Ratio 
+# Analysis Report on the Coupon Acceptance Rate 
 ## Summary of Findings (Investigating the Bar Coupons)
-
-
-### Acceptance Ratio Highlights 
-(): Acceptance ratio
-
-#### Coffee House coupon: High Ratio vs. Low Ratio ###
-**Circumstances (Destination, Passenger, Time, Expiration)** <br>
 2. Proportion of bar coupons were accepted: 41% <br>
 3. Bar 3 or fewer times a month (37%) vs. Those who went more (77%) <br>
 4. Go to a bar more than once a month and are over the age of 25+ (70%) vs. All others (34%) <br>
@@ -21,29 +14,29 @@
 
 ## Summary of Findings (Independent Investigation: Coffee House Coupon)
 
-The overall acceptance ratio was 50% and looking at each acceptance ratio by attribute, around 60%+ is relatively a high acceptance ratio, and around 40%- is relatively a low acceptance ratio. Refer to the bar graphs with acceptance ratios in the project file for each attribute provided by the dataset. As for Circumstance, all conditions with high acceptance ratios are associated with leisure or having a small free time, which makes sense considering a coffee shop utilization situation. Environments are not that important factor in general and the only tendency I observed is a slightly high acceptance ratio in a high-temperature case. Demographics again are not tightly related to the acceptance ratio in general except for age, occupation, and income. These three factors indicate that lower-income people would be incentivized by coupons more. The number of times to Coffee House is highly correlated, which is quite natural. Location does not seem to have a significant influence, but it was interesting to see more about the correlation in these regards. So, I did another analysis by splitting the dataset into pure three distances and two directions and calculated the acceptance ratios. It turned out that in the same direction, 5 min and 15 min distances did not affect the acceptance ratio a lot, but in the opposite direction, it influenced a lot, which makes sense since users do not want to change their direction just for the coffee house as the distance gets longer. In conclusion, if we want to distribute a coffee house coupon with a high acceptance ratio, it should be done in the late morning with 1-day expiration to the cars in the same direction to the coffee house. If we know personal attributes, we can also target those who are on the lower income side or who visit a coffee house more frequently.
+The overall acceptance rate was 50% and looking at each acceptance rate by attribute, around 60%+ is relatively a high acceptance rate, and around 40%- is relatively a low acceptance rate. Refer to the bar graphs with acceptance rates in the project file for each attribute provided by the dataset. As for Circumstance, all conditions with high acceptance rates are associated with leisure or having a small free time, which makes sense considering a coffee shop utilization situation. Environments are not that important factor in general and the only tendency I observed is a slightly high acceptance rate in a high-temperature case. Demographics again are not tightly related to the acceptance rate in general except for age, occupation, and income. These three factors indicate that lower-income people would be incentivized by coupons more. The number of times to Coffee House is highly correlated, which is quite natural. Location does not seem to have a significant influence, but it was interesting to see more about the correlation in these regards. So, I did another analysis by splitting the dataset into pure three distances and two directions and calculated the acceptance rates. It turned out that in the same direction, 5 min and 15 min distances did not affect the acceptance rate a lot, but in the opposite direction, it influenced a lot, which makes sense since users do not want to change their direction just for the coffee house as the distance gets longer. In conclusion, if we want to distribute a coffee house coupon with a high acceptance rate, it should be done in the late morning with 1-day expiraten to the cars in the same direction to the coffee house. If we know personal attributes, we can also target those who are on the lower income side or who visit a coffee house more frequently.
 
-In contrast to “Coffee House”, I also checked the situation for “Restaurant $20 to $50”. Briefly saying, we need to offer the Restaurant $20 to $50 coupons in a more stable manner (longer expiration) or targets (Partner) in general.
+In contrast to “Coffee House”, I also checked the situation for “Restaurant $20 to $50”. Briefly saying, we need to offer the Restaurant $20 to $50 coupons in a more stable manner (longer expiraten) or targets (Partner) in general.
 
 
 
-### Acceptance Ratio Highlights 
-(): Acceptance ratio
+### Acceptance rate Highlights 
+(): Acceptance rate
 
-#### Coffee House coupon: High Ratio vs. Low Ratio ###
-**Circumstances (Destination, Passenger, Time, Expiration)** <br>
-There are certain differences in the acceptance ratio by all these factors
+#### Coffee House coupon: High rate vs. Low rate ###
+**Circumstances (Destination, Passenger, Time, Expiraten)** <br>
+There are certain differences in the acceptance rate by all these factors
 - Destination: No Urgent Place (58%) vs. Home (36%)
 - Passenger: Friends(s) (60%) vs. Alone (44%)
 - Time: 10 AM (64%) and 2 PM (55%) vs. 7 AM (45%), 6 PM (41%), and 10 PM (42%)
-- Expiration: 1 day (58%) vs. 2 hours (43%)
+- Expiraten: 1 day (58%) vs. 2 hours (43%)
 
 **Environments (Whether, Temperature)** <br>
-There is no significant difference in acceptance ratio by these factors
+There is no significant difference in acceptance rate by these factors
 - Temperature: 80F (53%) vs. 30F (44%) 
 
 **Demographics (Gender, Age, Marital Status, Has children, Education, Occupation, Income)** <br>
-There is no significant difference in acceptance ratio by these factors in general except for Occupation and Income.
+There is no significant difference in acceptance rate by these factors in general except for Occupation and Income.
 - Age: Below21 (70%) vs. 50Plus(42%)
 - Occupation: Students (63%), Unemployed (54%) vs. Sales & Related (39%)
 - Income: $12.5K- (55%) vs. 75K- (30%)
@@ -57,9 +50,9 @@ There does not seem to be a significant difference by these factors. See below g
 
 
 #### Coffee House coupon vs. Restaurant $20 to $50 coupon ###
-- Overall acceptance ratio: 50% vs. 44%
+- Overall acceptance rate: 50% vs. 44%
 - Passenger - highest: Friend(s) (60%) vs. Partner (63%)
-- Expiration - lowest: 2 hours (43%) vs. 2 hours (30%)
+- Expiraten - lowest: 2 hours (43%) vs. 2 hours (30%)
 - Occupation: Students (63%), Unemployed (54%) vs. Students (44%), Unemployed (36%)
 - Frequency to restaurant - highest: Coffee House 4-8 (69%) vs. Restaurant $20 to $50 gt8 (69%)
 - Location: dependent vs. less dependent (See below graphs)
