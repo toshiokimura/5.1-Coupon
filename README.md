@@ -8,7 +8,7 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 
 
-### Acceptance ratio overviews and highlights with high and low acceptance ratio conditions 
+## Acceptance ratio highlights 
 (): Acceptance ratio
 
 ** Coffee House coupon **
