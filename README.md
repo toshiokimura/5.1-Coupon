@@ -32,7 +32,7 @@ There is no significant difference by these factors except for Coffee House
 - Coffee House: 1-3 (65%), 4-8 (69%) 
 
 **Location (toCoupon_GEQ5min, toCoupon_GEQ15min, toCoupon_GEQ25min, Direction_same, Directioin_opp)** <br>
-There does not seem to be a significant difference by these factors. Interesting to see more about the correlation in these regards.
+There does not seem to be a significant difference by these factors. See below graphs more about the correlation.
 
 
 ### Coffee House coupon vs. Restaurant $20 to $50 coupon ###
