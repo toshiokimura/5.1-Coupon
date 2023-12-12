@@ -10,6 +10,7 @@ Destination: No Urgent Place (58%), Home (36%)
 Passenger: Frends(s)
 Time: 10 AM and 2 PM are two time zones with the most significant acceptance ratio vs. 7 AM, 6 PM and 10 PM
 Expiration: 1Day is more higher acceptance ratio (58%) vs 2 hour (43%)
+
 This is reasonable considering coffee shop is somewhat related to leisure activity. We need to understand a little bit more about why expiration matters. 
 
 Environmental conditions (Whether, Temperature) 
