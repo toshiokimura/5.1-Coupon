@@ -6,7 +6,6 @@ The overall acceptance ratio was 50% and looking at each acceptance ratio by att
 In contrast to “Coffee House”, I also checked the situation for “Restaurant $20 to $50”. Briefly saying, we need to offer the Restaurant $20 to $50 coupons in a more stable manner (longer expiration) or targets (Partner) in general.
 
 
-
-![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/c8005f83-1104-4d21-814f-fc52ee9fd57b)
+![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/784959bf-1119-4090-9a83-bce778e25e48)
 
 
