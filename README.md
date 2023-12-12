@@ -8,5 +8,5 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 
 ![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/c8005f83-1104-4d21-814f-fc52ee9fd57b)
-![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/36b11b2d-88d2-48ff-99f4-e0a093937a26)
+
 
