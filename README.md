@@ -1,4 +1,6 @@
-•	Here is the acceptance ratio overview 
+Summary: Analysis report with regards to the Coupon acceptance ratio based on the UCI Machine Learning repository
+
+Here is the acceptance ratio overview 
 The overall acceptance ratio is 50%
 Circumstance conditions (Destination, Passenger, Time, Expiration)
 o	There is a certain correlation to Destination, Time, Passenger, and Expiration
