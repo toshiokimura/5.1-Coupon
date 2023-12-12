@@ -1,7 +1,22 @@
 # Analysis Report on the Coupon Acceptance Ratio 
 ## Summary of Findings (Investigating the Bar Coupons)
 
-Car is problematic due to just 108 data only. Frequnecy to the shop is missing in small number of dataset but it would be OK. Filled with 
+
+### Acceptance Ratio Highlights 
+(): Acceptance ratio
+
+#### Coffee House coupon: High Ratio vs. Low Ratio ###
+**Circumstances (Destination, Passenger, Time, Expiration)** <br>
+2. Proportion of bar coupons were accepted: 41%
+3. Bar 3 or fewer times a month (37%) vs. Those who went more (77%)
+4. Go to a bar more than once a month and are over the age of 25+ (70%) vs. All others (34%)
+5. Bar 1+ a month & no kid passenger & do not work in farming, fishing, or forestry (71%)
+6. Comparison of the acceptance rates between those drivers who:
+- go to bars more than once a month, had passengers that were not a kid, and were not widowed: (71%)
+- go to bars more than once a month and are under the age of 30: (72%)
+- go to cheap restaurants more than 4 times a month and income is less than 50K: (45%)
+7. Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?
+- Those who go to Bar frequently will more likely to acccept the Bar coupon.
 
 
 ## Summary of Findings (Independent Investigation: Coffee House Coupon)
@@ -12,10 +27,10 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 
 
-## Acceptance Ratio Highlights 
+### Acceptance Ratio Highlights 
 (): Acceptance ratio
 
-### Coffee House coupon: High Ratio vs. Low Ratio ###
+#### Coffee House coupon: High Ratio vs. Low Ratio ###
 **Circumstances (Destination, Passenger, Time, Expiration)** <br>
 There are certain differences in the acceptance ratio by all these factors
 - Destination: No Urgent Place (58%) vs. Home (36%)
@@ -41,7 +56,7 @@ There is no significant difference by these factors except for Coffee House
 There does not seem to be a significant difference by these factors. See below graphs more about the correlation.
 
 
-### Coffee House coupon vs. Restaurant $20 to $50 coupon ###
+#### Coffee House coupon vs. Restaurant $20 to $50 coupon ###
 - Overall acceptance ratio: 50% vs. 44%
 - Passenger - highest: Friend(s) (60%) vs. Partner (63%)
 - Expiration - lowest: 2 hours (43%) vs. 2 hours (30%)
