@@ -7,12 +7,11 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 
 
-
 ## Acceptance ratio highlights 
 (): Acceptance ratio
 
 ** Coffee House coupon **
-Circumstances (Destination, Passenger, Time, Expiration)
+** Circumstances (Destination, Passenger, Time, Expiration) ** 
 
 There are certain differences in the acceptance ratio by all these factors
 
