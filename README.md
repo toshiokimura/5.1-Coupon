@@ -13,7 +13,9 @@ Accceptance rates for those who: <br>
 - go to cheap restaurants more than 4 times a month and income is less than 50K: (45%)
   
 Hypothesis: Those who go to Bar frequently will more likely to acccept the Bar coupon. <br>
-
+<br>
+<br>
+<br>
 
 ## Summary of Findings (Independent Investigation: Coffee House Coupon)
 
