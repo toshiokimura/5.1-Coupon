@@ -10,7 +10,7 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 ## Acceptance ratio highlights 
 (): Acceptance ratio
 
-** Coffee House coupon **
+### Coffee House coupon ###
 ** Circumstances (Destination, Passenger, Time, Expiration) ** 
 
 There are certain differences in the acceptance ratio by all these factors
@@ -45,7 +45,7 @@ Interesting to see more about the correlation in these regards.
 
 
 
-** Coffee House coupon vs. Restaurant $20 to $50 **
+### Coffee House coupon vs. Restaurant $20 to $50 ###
 - Overall acceptance ratio: 50% vs. 44%
 - Passenger - highest: Friend(s) (60%) vs. Partner (63%)
 - Expiration - lowest: 2 hours (43%) vs. 2 hours (30%)
