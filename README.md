@@ -35,7 +35,7 @@ There is no significant difference by these factors except for Coffee House
 There does not seem to be a significant difference by these factors. Interesting to see more about the correlation in these regards.
 
 
-###Coffee House coupon vs. Restaurant $20 to $50 coupon###
+### Coffee House coupon vs. Restaurant $20 to $50 coupon ###
 - Overall acceptance ratio: 50% vs. 44%
 - Passenger - highest: Friend(s) (60%) vs. Partner (63%)
 - Expiration - lowest: 2 hours (43%) vs. 2 hours (30%)
