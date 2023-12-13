@@ -1,4 +1,6 @@
 # Analysis Report on the Coupon Acceptance Rate
+https://github.com/toshiokimura/5.1_Coupon/blob/main/prompt.ipynb
+
 (): Acceptance rate
 
 ## Summary of Findings (Bar Coupon)
