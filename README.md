@@ -27,7 +27,7 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 ### Acceptance rate Highlights 
 
-#### Coffee House coupon: High rate vs. Low rate ###
+#### ■ Coffee House coupon: High rate vs. Low rate ###
 **Circumstances (Destination, Passenger, Time, Expiraten)** <br>
 There are certain differences in the acceptance rate by all these factors.
 - Destination: No Urgent Place (58%) vs. Home (36%)
@@ -55,7 +55,7 @@ There does not seem to be a significant difference by these factors. See below g
 
 
 
-#### Coffee House coupon vs. Restaurant $20 to $50 coupon ###
+#### ■ Coffee House coupon vs. Restaurant $20 to $50 coupon ###
 - Overall acceptance rate: 50% vs. 44%
 - Passenger - highest: Friend(s) (60%) vs. Partner (63%)
 - Expiraten - lowest: 2 hours (43%) vs. 2 hours (30%)
