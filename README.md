@@ -1,7 +1,7 @@
 # Analysis Report on the Coupon Acceptance Rate
 (): Acceptance rate
 
-## Summary of Findings (Investigating the Bar Coupons)
+## Summary of Findings (Bar Coupon)
 - Proportion of bar coupons were accepted: (41%)
 
   Accceptance rates for those who: <br>
