@@ -40,7 +40,7 @@ There is no significant difference in acceptance rate by these factors
 - Temperature: 80F (53%) vs. 30F (44%) 
 
 **Demographics (Gender, Age, Marital Status, Has children, Education, Occupation, Income)** <br>
-There is no significant difference in acceptance rate by these factors in general except for Occupation and Income.
+There is no significant difference in acceptance rate by these factors in general except for Age, Occupation, and Income.
 - Age: Below21 (70%) vs. 50Plus(42%)
 - Occupation: Students (63%), Unemployed (54%) vs. Sales & Related (39%)
 - Income: $12.5K- (55%) vs. 75K- (30%)
