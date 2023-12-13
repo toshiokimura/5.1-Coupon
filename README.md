@@ -67,3 +67,4 @@ There does not seem to be a significant difference by these factors. See below g
 #### ■ Acceptance Rate Depandency to Directino and Distance
 ![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/db349a6c-6083-4722-bb93-c63ba4c95fbc)
 
+
