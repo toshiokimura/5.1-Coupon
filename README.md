@@ -29,14 +29,14 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 #### Coffee House coupon: High rate vs. Low rate ###
 **Circumstances (Destination, Passenger, Time, Expiraten)** <br>
-There are certain differences in the acceptance rate by all these factors
+There are certain differences in the acceptance rate by all these factors.
 - Destination: No Urgent Place (58%) vs. Home (36%)
 - Passenger: Friends(s) (60%) vs. Alone (44%)
 - Time: 10 AM (64%) and 2 PM (55%) vs. 7 AM (45%), 6 PM (41%), and 10 PM (42%)
 - Expiraten: 1 day (58%) vs. 2 hours (43%)
 
 **Environments (Whether, Temperature)** <br>
-There is no significant difference in acceptance rate by these factors
+There is no significant difference in acceptance rate by these factors.
 - Temperature: 80F (53%) vs. 30F (44%) 
 
 **Demographics (Gender, Age, Marital Status, Has children, Education, Occupation, Income)** <br>
@@ -46,7 +46,7 @@ There is no significant difference in acceptance rate by these factors in genera
 - Income: $12.5K- (55%) vs. 75K- (30%)
 
 **Frequency (Bar, Coffee House, Carry Away, Restaurant Less Than $20, Restaurant $20 to $50)** <br>
-There is no significant difference by these factors except for Coffee House
+There is no significant difference by these factors except for Coffee House.
 - Coffee House: 1-3 (65%), 4-8 (69%) 
 
 **Location (toCoupon_GEQ5min, toCoupon_GEQ15min, toCoupon_GEQ25min, Direction_same, Directioin_opp)** <br>
