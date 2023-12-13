@@ -11,8 +11,8 @@
 - go to bars more than once a month, had passengers that were not a kid, and were not widowed: (71%) <br>
 - go to bars more than once a month and are under the age of 30: (72%) <br>
 - go to cheap restaurants more than 4 times a month and income is less than 50K: (45%)
-  
-Hypothesis: Those who go to Bar frequently will be more likely to acccept the Bar coupon. <br>
+  <br>
+  Hypothesis: Those who go to Bar frequently will be more likely to acccept the Bar coupon. <br>
 <br>
 <br>
 <br>
