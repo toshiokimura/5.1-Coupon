@@ -23,7 +23,7 @@ The overall acceptance rate was 50% and looking at each acceptance rate by attri
 
 In contrast to “Coffee House”, I also checked the situation for “Restaurant $20 to $50”. Briefly saying, we need to offer the Restaurant $20 to $50 coupons in a more stable manner (longer expiraten) or targets (Partner) in general.
 
-
+<br>
 
 ### Acceptance Rate Highlights 
 
