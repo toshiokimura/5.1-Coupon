@@ -68,5 +68,4 @@ There does not seem to be a significant difference by these factors. See below g
 
 ![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/879b4f9c-2beb-41a9-beda-49c467682d89)
 
-![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/0c4bdbab-5f65-438f-9ec3-a78a63432a99)
 
