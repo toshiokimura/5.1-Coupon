@@ -4,7 +4,7 @@
 ## Summary of Findings (Investigating the Bar Coupons)
 - Proportion of bar coupons were accepted: (41%)
 
-Accceptance rates for those who: <br>
+  Accceptance rates for those who: <br>
 - went to a bar 3 or fewer times a month to those who went more: (37%) vs. (77%) <br>
 - go to a bar more than once a month and are over the age of 25 to the all others: (70%) vs. (34%) <br>
 - go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry: (71%) <br>
