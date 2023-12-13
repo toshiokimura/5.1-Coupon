@@ -53,6 +53,8 @@ There is no significant difference by these factors except for Coffee House.
 There does not seem to be a significant difference by these factors. See below graphs more about the correlation.
 
 
+
+
 #### Coffee House coupon vs. Restaurant $20 to $50 coupon ###
 - Overall acceptance rate: 50% vs. 44%
 - Passenger - highest: Friend(s) (60%) vs. Partner (63%)
