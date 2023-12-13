@@ -1,5 +1,5 @@
 # Analysis Report on the Coupon Acceptance Rate
-link to notebook https://github.com/toshiokimura/5.1_Coupon/blob/main/prompt.ipynb
+link to notebook: https://github.com/toshiokimura/5.1_Coupon/blob/main/prompt.ipynb
 
 (): Acceptance rate
 
