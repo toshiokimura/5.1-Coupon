@@ -64,7 +64,6 @@ There does not seem to be a significant difference by these factors. See below g
 - Location: dependent vs. less dependent (See below graphs)
 <br>
 <br>
-
-#### ■ Acceptance Rate Depandancy to Directino and Distance
+#### ■ Acceptance Rate Depandency to Directino and Distance
 ![image](https://github.com/toshiokimura/5.1_Coupon/assets/44044445/db349a6c-6083-4722-bb93-c63ba4c95fbc)
 
