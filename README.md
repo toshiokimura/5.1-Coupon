@@ -25,7 +25,7 @@ In contrast to “Coffee House”, I also checked the situation for “Restauran
 
 
 
-### Acceptance rate Highlights 
+### Acceptance Rate Highlights 
 
 #### ■ Coffee House coupon: High rate vs. Low rate ###
 **Circumstances (Destination, Passenger, Time, Expiraten)** <br>
